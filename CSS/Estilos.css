@@ -1,7 +1,7 @@
 body
 {
     background: #1e1f24;
-    color: #333;
+    color: rgb(255, 255, 255);
     text-align-last: center;
     font-family: "Courier New";
     font-size: 25px;
@@ -47,16 +47,22 @@ body
      font-size: 30px;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 #post
 {
     background: white;
     padding: 1em;
 =======
+=======
+>>>>>>> footer
 #footer
 {
     background: #777;
     color: white;
     text-align: center;
     padding: 0.5em;
+<<<<<<< HEAD
 >>>>>>> 6f55ec8d5150c190bdc02747334b373621c5937f
+=======
+>>>>>>> footer
 }
